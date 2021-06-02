@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>LONG-TOOL</title>
+  <title>zhanghongping</title>
   
   <subtitle>「Stay Hungry.Stay Foolish.」</subtitle>
   <link href="https://long-tool.github.io/atom.xml" rel="self"/>
   
   <link href="https://long-tool.github.io/"/>
-  <updated>2021-06-02T08:16:05.649Z</updated>
+  <updated>2021-06-02T09:05:02.656Z</updated>
   <id>https://long-tool.github.io/</id>
   
   <author>
-    <name>LONG-TOOL</name>
+    <name>zhanghongping</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Opportunities and challenges in long-read sequencing data analysis</title>
-    <link href="https://long-tool.github.io/2020/11/21/01/"/>
-    <id>https://long-tool.github.io/2020/11/21/01/</id>
+    <title>长序列测序数据的分析与挑战</title>
+    <link href="https://long-tool.github.io/2020/11/21/%E9%95%BF%E5%BA%8F%E5%88%97%E6%B5%8B%E5%BA%8F%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%86%E6%9E%90%E4%B8%8E%E6%8C%91%E6%88%98/"/>
+    <id>https://long-tool.github.io/2020/11/21/%E9%95%BF%E5%BA%8F%E5%88%97%E6%B5%8B%E5%BA%8F%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%86%E6%9E%90%E4%B8%8E%E6%8C%91%E6%88%98/</id>
     <published>2020-11-21T16:00:00.000Z</published>
-    <updated>2021-06-02T08:16:05.649Z</updated>
+    <updated>2021-06-02T09:05:02.656Z</updated>
     
     <content type="html"><![CDATA[<div class="row">    <embed src="https://long-tool.github.io/pdf/s13059-020-1935-5.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
     
-    <summary type="html">Opportunities and challenges in long-read sequencing data analysis</summary>
+    <summary type="html">Long-read sequencing technologies are overcoming early limitations in accuracy and throughput, broadening their application domains in genomics.</summary>
     
     
     
