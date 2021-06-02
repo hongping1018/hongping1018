@@ -21,7 +21,7 @@ navbar:
   logo: # choose [img] or [icon + title]
     img: #https://cdn.jsdelivr.net/gh/feelheart7/CDN@1.0/blog/images/logo.png
     icon: 
-    title: weijiajin
+    title: LONG-TOOL
   menu:
     - name: 博客
       icon: fas fa-code
@@ -166,8 +166,8 @@ article:
       # 默认文章作者（可在 front-matter 中覆盖）
       author:
         avatar: https://cdn.jsdelivr.net/gh/feelheart7/CDN@1.0/blog/images/logo.png
-        name: weijiajin
-        url: https://volantis.weijiajin.com
+        name: LONG-TOOL
+        url: https://long-tool.github.io
       # 文章创建日期
       date:
         icon: fas fa-calendar-alt
