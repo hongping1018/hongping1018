@@ -17,7 +17,7 @@ info:
 
 ############################### Navigation Bar ############################### > start
 navbar:
-  visiable: auto # always, auto
+  visiable: always # always, auto
   logo: # choose [img] or [icon + title]
     img: #https://cdn.jsdelivr.net/gh/feelheart7/CDN@1.0/blog/images/logo.png
     icon: 
