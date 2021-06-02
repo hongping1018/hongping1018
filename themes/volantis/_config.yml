@@ -58,7 +58,7 @@ cover:
     others: true # can be written in front-matter 'cover: true'
   background: https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/033.jpg
   logo: #https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
-  title: 'weijiajin'
+  title: 'LONG-TOOL'
   subtitle: "「Stay Hungry.Stay Foolish.」"
   search:  # search bar placeholder
   features:
@@ -221,7 +221,7 @@ comments:
   valine:
     appId: Lv4qGt5SNuuepaXTA56s4DLa-gzGzoHsz
     appKey: zuK5DloBCEaLYSVWisoGRFSG
-    js: https://cdn.jsdelivr.net/gh/wejudging/wejudging.github.io/js/valine.js
+    js: https://ß.jsdelivr.net/gh/wejudging/wejudging.github.io/js/valine.js
     path: # 全局评论地址
     placeholder: 快来评论吧～ლ(＾ω＾ლ)～ # 评论占位提示
     meta: nick,mail,link # valine comment header info
@@ -472,7 +472,7 @@ site_footer:
   # site copyright
   copyright: 'copyright © 2020'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
-  br: '<br>[weijiajin.com](/)'
+  br: '<br>[long-tool.github.io](/)'
 ############################### Site Footer ############################### > end
 
 ############################### Plugins ############################### > start
