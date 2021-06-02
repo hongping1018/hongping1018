@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: "weijiajin"
+title: "LONG-TOOL"
 subtitle: "「Stay Hungry.Stay Foolish.」"
-description: "weijiajin's blog"
-keywords: 'weijiajin'
-author: weijiajin
+description: "LONG-TOOL"
+keywords: 'LONG-TOOL'
+author: LONG-TOOL
 language: zh-CN
 timezone: 'Asia/Shanghai'
 favicon: https://cdn.jsdelivr.net/gh/feelheart7/CDN@1.0/blog/images/logo.png
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://volantis.weijiajin.com
+url: https://long-tool.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -104,9 +104,8 @@ theme: volantis
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/wejudging/volantis-blog.git
+  repository: https://github.com/long-tool/long-tool.github.io.git
   branch: main
-  
 # 全局导入
 import:
   meta:
