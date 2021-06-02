@@ -41,9 +41,9 @@ navbar:
    # - name: 评论
     #  icon: fas fa-comment-dots
      # url: https://feelheart.leanapp.cn/
-    #- name: 关于
-     # icon: fas fa-info-circle
-     # url: about/
+    - name: 关于
+      icon: fas fa-info-circle
+      url: about/
   search:    # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
@@ -86,10 +86,10 @@ cover:
    #   icon: fas fa-comment-dots
    #   img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
    #   url: https://feelheart.leanapp.cn/
-    #- name: 关于
-    #  icon: fas fa-info-circle
-    # img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
-    #  url: about/
+    - name: 关于
+      icon: fas fa-info-circle
+      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
+      url: about/
 ############################### Cover ############################### > end
 
 pages:
@@ -343,11 +343,11 @@ sidebar:
         - icon: fas fa-rss
           url: /atom.xml
         - icon: fas fa-envelope
-          url: mailto:wejudging@gmail.com
+          url: mailto:zxcvbnm1234984@163.com
         - icon: fab fa-github
-          url: https://github.com/feelheart7
+          url: https://github.com/long-tool
         - icon: fas fa-headphones-alt
-          url: https://music.163.com/#/user/home?id=373722045
+          url: https://music.163.com
     # ---------------------------------------
     # toc widget (valid only in articles)
     toc:
@@ -458,11 +458,11 @@ site_footer:
     - icon: fas fa-rss
       url: /atom.xml
     - icon: fas fa-envelope
-      url: mailto:wejudging@gmail.com
+      url: mailto:zxcvbnm1234984@163.com
     - icon: fab fa-github
-      url: https://github.com/feelheart7
+      url: https://github.com/long-tool
     - icon: fas fa-headphones-alt
-      url: https://music.163.com/#/user/home?id=373722045
+      url: https://music.163.com
   # site source
   source: https://github.com/volantis-x/volantis-docs/
   # analytics using leancloud
