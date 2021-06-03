@@ -167,7 +167,7 @@ article:
       author:
         avatar: https://cdn.jsdelivr.net/gh/feelheart7/CDN@1.0/blog/images/logo.png
         name: zhanghongping
-        url: https://long-tool.github.io
+        url: https://hongping1018.github.io
       # 文章创建日期
       date:
         icon: fas fa-calendar-alt
@@ -345,7 +345,7 @@ sidebar:
         - icon: fas fa-envelope
           url: mailto:zxcvbnm1234984@163.com
         - icon: fab fa-github
-          url: https://github.com/long-tool
+          url: https://github.com/hongping1018
         - icon: fas fa-headphones-alt
           url: https://music.163.com
     # ---------------------------------------
@@ -460,7 +460,7 @@ site_footer:
     - icon: fas fa-envelope
       url: mailto:zxcvbnm1234984@163.com
     - icon: fab fa-github
-      url: https://github.com/long-tool
+      url: https://github.com/hongping1018
     - icon: fas fa-headphones-alt
       url: https://music.163.com
   # site source
@@ -472,7 +472,7 @@ site_footer:
   # site copyright
   copyright: 'copyright © 2020'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
-  br: '<br>[long-tool.github.io](/)'
+  br: '<br>[hongping1018.github.io](/)'
 ############################### Site Footer ############################### > end
 
 ############################### Plugins ############################### > start
