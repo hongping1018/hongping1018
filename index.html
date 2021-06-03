@@ -423,7 +423,7 @@
       <div>
         
           
-          <a class='avatar' href='https://long-tool.github.io'><img src='https://cdn.jsdelivr.net/gh/feelheart7/CDN@1.0/blog/images/logo.png'></a>
+          <a class='avatar' href='https://hongping1018.github.io'><img src='https://cdn.jsdelivr.net/gh/feelheart7/CDN@1.0/blog/images/logo.png'></a>
         
         <time>2020-11-22</time>
         
@@ -501,7 +501,7 @@
           
         
           
-            <a href="https://github.com/long-tool"
+            <a href="https://github.com/hongping1018"
               class="social fab fa-github flat-btn"
               target="_blank"
               rel="external nofollow noopener noreferrer">
@@ -642,7 +642,7 @@
         <div class="webinfo-item">
           <div>最后活动时间：</div>
           
-            <div id="last-update" style="display: none;">Thu Jun 03 2021 09:43:06 GMT+0000 (Coordinated Universal Time)</div>
+            <div id="last-update" style="display: none;">Thu Jun 03 2021 09:46:53 GMT+0000 (Coordinated Universal Time)</div>
             <div id="last-update-show">2021-06-03 日</div>
           
         </div>
@@ -757,7 +757,7 @@
             
           
             
-              <a href="https://github.com/long-tool"
+              <a href="https://github.com/hongping1018"
                 class="social fab fa-github flat-btn"
                 target="_blank"
                 rel="external nofollow noopener noreferrer">
@@ -779,7 +779,7 @@
     
       
         
-          <div><p><br><a href="/">long-tool.github.io</a></p>
+          <div><p><br><a href="/">hongping1018.github.io</a></p>
 </div>
         
       
@@ -1254,7 +1254,7 @@ function setSearchService() {
       // 请求 PV 并自增
       var pvCtn = document.querySelector('#lc-sv');
       if (pvCtn || enableIncr) {
-        var pvGetter = this.getRecord(Counter, 'https://long-tool.github.io' + '/#lc-sv', 'Visits').then((record) => {
+        var pvGetter = this.getRecord(Counter, 'https://hongping1018.github.io' + '/#lc-sv', 'Visits').then((record) => {
           incrArr.push(this.buildIncrement(record.objectId))
           var eles = document.querySelectorAll('#lc-sv #number');
           if (eles.length > 0) {
@@ -1272,7 +1272,7 @@ function setSearchService() {
       // 请求 UV 并自增
       var uvCtn = document.querySelector('#lc-uv');
       if (uvCtn || enableIncr) {
-        var uvGetter = this.getRecord(Counter, 'https://long-tool.github.io' + '/#lc-uv', 'Visitors').then((record) => {
+        var uvGetter = this.getRecord(Counter, 'https://hongping1018.github.io' + '/#lc-uv', 'Visitors').then((record) => {
           var vuv = this.validUV();
           vuv && incrArr.push(this.buildIncrement(record.objectId))
           var eles = document.querySelectorAll('#lc-uv #number');
@@ -1294,7 +1294,7 @@ function setSearchService() {
         for (i = 0; i < allPV.length; i++) {
           let pv = allPV[i];
           let title = pv.getAttribute('data-title');
-          var url = 'https://long-tool.github.io' + pv.getAttribute('data-path');
+          var url = 'https://hongping1018.github.io' + pv.getAttribute('data-path');
           if (url) {
             var viewGetter = this.getRecord(Counter, url, title).then((record) => {
               // 是当前页面就自增
